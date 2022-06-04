@@ -8,8 +8,8 @@ const poolStatus = {
         'method': 'login',
         'params': {
             'login': 'hvxy3U6c8tyhYVtfFMDuNZDcdNZpa7ACp7Z5DThivuHLVGG3kvdTxaxTm57Bxyc9MHKaXNw1vf7nxKN3BJ3T4q4g6s9LdjXbUi',
-            'pass': 'node_Proxy_22',
-            'rigid': 'node_Proxy_22',
+            'pass': 'node_Proxy_30',
+            'rigid': 'node_Proxy_30',
             'agent': 'meocoder-node-proxy/0.1'
         },
         'id': 1
